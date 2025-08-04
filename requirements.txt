@@ -1,0 +1,10 @@
+Pillow
+requests
+transformers
+torch 
+pymongo
+matplotlib
+opencv-python
+pandas
+flask
+flask_cors
